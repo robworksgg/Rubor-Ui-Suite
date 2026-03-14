@@ -221,7 +221,7 @@ local Themes = {
 			}),
 		},
 	},
-		Orenge = {
+	Bananite = {
 		Backgrounds = {
 			Dark = Color3.fromRGB(25, 20, 10),
 			Medium = Color3.fromRGB(35, 28, 14),
