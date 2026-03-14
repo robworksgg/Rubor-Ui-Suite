@@ -66,6 +66,10 @@ Starlight Interface Suite modded
 by Nebula Softworks
 
 
+Modded version by robey yey :p
+
+nebula please i need this
+
 
 
 ]]
@@ -214,6 +218,40 @@ local Themes = {
 				ColorSequenceKeypoint.new(0.0, Color3.fromRGB(241, 212, 251)),
 				ColorSequenceKeypoint.new(0.5, Color3.fromRGB(187, 192, 225)),
 				ColorSequenceKeypoint.new(1.0, Color3.fromRGB(195, 227, 242)),
+			}),
+		},
+	},
+		Orenge = {
+		Backgrounds = {
+			Dark = Color3.fromRGB(25, 20, 10),
+			Medium = Color3.fromRGB(35, 28, 14),
+			Light = Color3.fromRGB(45, 35, 18),
+			Groupbox = Color3.fromRGB(40, 32, 16),
+			Highlight = Color3.fromRGB(20, 16, 8),
+		},
+		Foregrounds = {
+			Active = Color3.fromRGB(255, 255, 255),
+			Light = Color3.fromRGB(255, 255, 255),
+			Medium = Color3.fromRGB(165, 165, 165),
+			Dark = Color3.fromRGB(65, 69, 77),
+			MediumHover = Color3.fromRGB(185, 185, 185),
+			DarkHover = Color3.fromRGB(85, 89, 97),
+		},
+		Miscellaneous = {
+			Divider = Color3.fromRGB(60, 50, 30),
+			Shadow = Color3.fromRGB(15, 12, 5),
+			LighterShadow = Color3.fromRGB(20, 16, 8),
+		},
+		Accents = {
+			Main = ColorSequence.new({
+				ColorSequenceKeypoint.new(0.0, Color3.fromRGB(255, 140, 0)),
+				ColorSequenceKeypoint.new(0.5, Color3.fromRGB(255, 180, 0)),
+				ColorSequenceKeypoint.new(1.0, Color3.fromRGB(255, 140, 0)),
+			}),
+			Brighter = ColorSequence.new({
+				ColorSequenceKeypoint.new(0.0, Color3.fromRGB(255, 170, 50)),
+				ColorSequenceKeypoint.new(0.5, Color3.fromRGB(255, 200, 50)),
+				ColorSequenceKeypoint.new(1.0, Color3.fromRGB(255, 170, 50)),
 			}),
 		},
 	},
@@ -10970,3 +11008,26 @@ end --]=]0
 })]]
 
 return Starlight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
